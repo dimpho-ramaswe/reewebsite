@@ -25,11 +25,6 @@ style.css
 images/ (website images)
 screenshots/ (assignment screenshots)
 README.md
-sitemap.xml
-robots.txt
-
-markdown
-Copy code
 
 ## Changelog
 
